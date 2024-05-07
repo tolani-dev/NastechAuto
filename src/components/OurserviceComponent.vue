@@ -3,7 +3,7 @@
         <div class="flex flex-col justify-center items-center m-10">
             <h4 class="place-item"><span class="font-black text-5xl">Our</span><span class="italic text-5xl">
                     service</span></h4>
-            <p class="tracking-wide text-[#9E9E9E] text-lg w-[30%] text-center">Integrity and value are critical pieces
+            <p class="tracking-wide text-[#9E9E9E] text-lg md:w-[30%] md:mt-0 mt-3 text-center">Integrity and value are critical pieces
                 to the best
                 automotive business practices</p>
         </div>

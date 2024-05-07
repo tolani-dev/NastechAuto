@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white" style="padding-left: 100px; padding-right: 100px;">
-        <div style="padding-top: 60px; padding-bottom: 80px" class="p-14">
+        <div style="padding-top: 60px; padding-bottom: 80px" class="">
             <h3 class="text-center font-light text-4xl tracking-wider text-black">What are people saying...</h3>
         </div>
         <ul class="wprs_unslider-wrap wprs_unslider-carousel" style="padding-bottom:50px">

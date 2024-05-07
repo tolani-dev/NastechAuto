@@ -30,19 +30,19 @@
     </div>
   </div>
   <!--  -->
-  <section>
+  <section id="service">
     <ServicesComponent />
   </section>
-  <section>
+  <section id="rate">
     <RateComponent />
   </section>
-  <section>
+  <section id="ourservice">
     <OurserviceComponent />
   </section>
-  <section>
+  <section id="callback">
     <CallbackComponent />
   </section>
-  <section>
+  <section id="review">
     <ReviewsComponents />
   </section>
 </template>

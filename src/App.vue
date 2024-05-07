@@ -17,16 +17,16 @@
 
           <div
             class="capitalize font-semibold text-primary text-sm md:text-base cursor-pointer border-b border-transparent hover:border-b-4 hover:border-secondary">
-            <a href="/#service"> services</a>
+            <a href="/#ourservice"> services</a>
           </div>
           <div
             class="capitalize font-semibold text-primary text-sm md:text-base cursor-pointer border-b border-transparent hover:border-b-4 hover:border-secondary">
-            <a href="/#about"> about us</a>
+            <a href="/#review"> about us</a>
           </div>
 
           <div
             class="capitalize font-semibold text-primary text-sm md:text-base cursor-pointer border-b border-transparent hover:border-b-4 hover:border-secondary">
-            <a href="/#contact">contact</a>
+            <a href="/#callback">contact</a>
           </div>
 
           <!-- <div
@@ -39,10 +39,10 @@
                 >press & media
               </a>
             </div> -->
-          <div
+          <!-- <div
             class="capitalize font-semibold text-primary text-sm md:text-base cursor-pointer border-b border-transparent hover:border-b-4 hover:border-secondary">
             <a href="">press</a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -73,21 +73,21 @@
           </div>
 
           <div class="capitalize font-semibold text-primary text-sm cursor-pointer border-b border-transparent">
-            <a href="/#about" @click="closeNav()">about us</a>
+            <a href="/#review" @click="closeNav()">about us</a>
           </div>
 
           <div class="capitalize font-semibold text-primary text-sm cursor-pointer border-b border-transparent">
-            <a @click="closeNav()" href="/#service">services</a>
+            <a @click="closeNav()" href="/#ourservice">services</a>
           </div>
           <div @click="closeNav()"
             class="capitalize font-semibold text-primary text-sm cursor-pointer border-b border-transparent">
-            <a href="#contact">contact us </a>
+            <a href="#callback">contact us </a>
           </div>
-          <div @click="closeNav()"
+          <!-- <div @click="closeNav()"
             class="capitalize font-semibold text-primary text-sm cursor-pointer border-b border-transparent">
             <a href="" target="_blank" rel="noreferrer noopener">press
             </a>
-          </div>
+          </div> -->
           <button @click="closeNav()"
             class="bg-primary mt-5 flex justify-center items-center mx-auto text-white font-semibold text-sm px-5 py-2 rounded-full capitalize cursor-pointer hover:bg-indigo">
             <a href="#qr">Book an appointment</a>
